@@ -1,0 +1,156 @@
+*{
+	padding: 0;
+	margin: 0 auto;
+}
+
+.banner{
+	width: 100%;
+	height: 320px;
+
+}
+
+.banner img{
+    width: 100%;
+	height: 200px;
+}
+.principal{
+	width: 100%;
+	height: auto;
+}
+.principal img{
+	width: 70%;
+	height: 310px;
+	position: absolute;
+	top: 50px;
+	left: 200px;
+	z-index: 1;
+	border-radius: 10px;
+}
+.foto img{
+     width: 340px;
+     height: 310px;
+     position: absolute;
+     top: 50px;
+     left: 766px;
+     z-index: 0;
+     border-radius: 10px;
+}
+.principal h1{
+	position: absolute;
+	left: 300px;
+	top: 80px;
+	z-index: 2;
+	font-family: 'Anton', sans-serif;
+	color: white;
+}
+.principal h2{
+	position: absolute;
+	left: 300px;
+	top: 120px;
+	z-index: 2;
+	color: white;
+	font-family: ;
+}
+.principal h3 {
+	position: absolute;
+	left: 300px;
+	top: 200px;
+	z-index: 2;
+	color: white;
+}
+
+.sobre{
+	width: 906px;
+	height: 250px;
+	background-color: #DADBDB;
+	position: absolute;
+	left: 200px;
+	top: 400px;
+	border-radius: 10px;
+
+}
+
+.sobre p{
+	font-size: 27px;
+	position: absolute;
+	margin-left: 20px;
+	margin-top: 20px;
+	font-family: Montserrat;
+}
+
+.fb img{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 280px;
+	top: 280px;	
+}
+
+.tt img{
+	width: 65px;
+	height: 65px;
+	position: absolute;
+	left: 280px;
+	top: 150px;
+
+}
+
+.s img{
+	width: 52px;
+	height: 52px;
+	position: absolute;
+	left: 280px;
+	top: 220px;
+}
+
+.luta img{
+	width: 150px;
+	height: 150px;
+	top: 240px;
+	left: 500px;
+}
+
+.scsgo img{
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 230px;
+	left: 20px; 
+}
+
+.sgot img{
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 230px;
+	left: 1150px;
+}
+
+.adventuretime img{
+	width: 150px;
+	height: 150px;
+	top: 210px;
+	left: 660px;
+	position: absolute;
+	z-index: 1;
+}
+
+.html img{
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 400px;
+	left: 1150px;
+}
+
+.css img{
+	width: 180px;
+	height: 180px;
+	position: absolute;
+	top: 380px;
+	left: 8px;
+}
+
+
+
+
